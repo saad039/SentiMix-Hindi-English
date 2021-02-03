@@ -1,11 +1,3 @@
----
-author:
-- Muhammad Saad 17I-0033 Section B
-bibliography:
-- references.bib
-date: December 08, 2020
-title: Artificial Intelligence Project
----
 
 # Introduction 
 
